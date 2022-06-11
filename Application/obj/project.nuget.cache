@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "29D4e4IkRunpfzqrcv0+P+odhCl8F0j8OwrF13cM23m8lPLS793QKdLdQujBfw1xx1/oVzmVWgqu9lcDEeoeGA==",
+  "success": true,
+  "projectFilePath": "D:\\Skola\\ASP\\Projekat\\ProjekatFinal\\Projekat\\shopy\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KraljN\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.7\\microsoft.aspnetcore.http.features.5.0.7.nupkg.sha512",
+    "C:\\Users\\KraljN\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\KraljN\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\KraljN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\KraljN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\KraljN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\KraljN\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

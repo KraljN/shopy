@@ -1,0 +1,17 @@
+C:\Users\Milica\source\repos\BlogASP\Domen\bin\Debug\netcoreapp3.0\Domen.deps.json
+C:\Users\Milica\source\repos\BlogASP\Domen\bin\Debug\netcoreapp3.0\Domen.dll
+C:\Users\Milica\source\repos\BlogASP\Domen\bin\Debug\netcoreapp3.0\Domen.pdb
+C:\Users\Milica\source\repos\BlogASP\Domen\obj\Debug\netcoreapp3.0\Domen.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\BlogASP\Domen\obj\Debug\netcoreapp3.0\Domen.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\BlogASP\Domen\obj\Debug\netcoreapp3.0\Domen.AssemblyInfo.cs
+C:\Users\Milica\source\repos\BlogASP\Domen\obj\Debug\netcoreapp3.0\Domen.dll
+C:\Users\Milica\source\repos\BlogASP\Domen\obj\Debug\netcoreapp3.0\Domen.pdb
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\bin\Debug\netcoreapp3.0\Domen.deps.json
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\bin\Debug\netcoreapp3.0\Domen.dll
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\bin\Debug\netcoreapp3.0\Domen.pdb
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\obj\Debug\netcoreapp3.0\Domen.csproj.AssemblyReference.cache
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\obj\Debug\netcoreapp3.0\Domen.AssemblyInfoInputs.cache
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\obj\Debug\netcoreapp3.0\Domen.AssemblyInfo.cs
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\obj\Debug\netcoreapp3.0\Domen.csproj.CoreCompileInputs.cache
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\obj\Debug\netcoreapp3.0\Domen.dll
+D:\Skola\ASP\Projekat\ProjekatFinal\Projekat\Domen\obj\Debug\netcoreapp3.0\Domen.pdb
