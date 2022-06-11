@@ -10,6 +10,6 @@ namespace Api.Core.FakeActors
     {
         public int Id => 17;
         public string Identity => "Unauthorized Actor";
-        public IEnumerable<int> AllowedUseCases => Enumerable.Range(1, 5);
+        public IEnumerable<int> AllowedUseCases => new List<int> { 1 };
     }
 }

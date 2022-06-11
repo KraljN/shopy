@@ -217,7 +217,17 @@ namespace Api.Controllers
             };
 
             //user
-            var userUseCases = Enumerable.Range(1, 20).ToList();
+            //var userUseCases = Enumerable.Range(1, 20).ToList();
+            var userUseCases = new List<int>
+            {
+                1,//Create user
+                15,//Create order
+                16,//Change order status
+                8,//Categories get
+                9,//Category get
+                13,//Products get
+                14,//Product get
+            };
             //admin
             var adminUseCases = Enumerable.Range(1, 50).ToList();
 
