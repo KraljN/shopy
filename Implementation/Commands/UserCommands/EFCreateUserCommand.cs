@@ -50,7 +50,16 @@ namespace Implementation.Commands.UserCommands
 
             user.Password = strBuilder.ToString();
 
-            var userUseCases = Enumerable.Range(1, 15).ToList();
+            var userUseCases = new List<int>
+            {
+                1,//Create user
+                15,//Create order
+                16,//Change order status
+                8,//Categories get
+                9,//Category get
+                13,//Products get
+                14,//Product get
+            };
 
             userUseCases.ForEach(useCase => _context.UserUseCases.Add(new UserUseCase
             {
